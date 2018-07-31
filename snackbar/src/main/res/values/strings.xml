@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snackbar</string>
+    <string name="show_snack_bar">显示Snackbar</string>
+</resources>

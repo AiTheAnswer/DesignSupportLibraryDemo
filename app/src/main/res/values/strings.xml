@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DesignSupportLibraryDemo</string>
+    <string name="snack_bar">Snackbar</string>
+    <string name="coordinator_layout">Coordinator_Layout</string>
+    <string name="slide_toolbar">滑动的Toolbar</string>
+    <string name="fold_toolbar">折叠的Toolbar</string>
+</resources>
